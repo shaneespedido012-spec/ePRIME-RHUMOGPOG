@@ -1,0 +1,20 @@
+# ─── Firebase Configuration ──────────────────────────────────────
+VITE_FIREBASE_API_KEY=AIzaSyCJ_5t0jkoD91mVLD1yMupQ-9zSGgw7rgw
+VITE_FIREBASE_AUTH_DOMAIN=eprime-b8599.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=eprime-b8599
+VITE_FIREBASE_STORAGE_BUCKET=eprime-b8599.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=329296245704
+VITE_FIREBASE_APP_ID=1:329296245704:web:8450b3cd19fa1c52db86fd
+
+# ─── Cloudinary Configuration ────────────────────────────────────
+VITE_CLOUDINARY_CLOUD_NAME=dyrubrrx6
+VITE_CLOUDINARY_UPLOAD_PRESET=eprime_rhu_uploads
+VITE_CLOUDINARY_API_KEY=811387273973166
+
+# ─── Nodemailer / Gmail SMTP (server-side only) ─────────────────
+# These are used in the backend API route (e.g., Express/Firebase Functions)
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=mangcucang.hazeljoy@marsu.edu.ph
+SMTP_PASS=mgby rkql nlxh kakw
+SMTP_FROM="ePRIME-RHU <noreply@eprime-rhu.gov.ph>"
